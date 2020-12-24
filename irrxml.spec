@@ -15,6 +15,7 @@ Source0:	http://downloads.sourceforge.net/irrlicht/%{name}-%{version}.zip
 URL:		https://www.ambiera.com/irrxml/
 BuildRequires:	libstdc++-devel >= 5:3.2
 BuildRequires:	libtool >= 2:2
+BuildRequires:	rpmbuild(macros) >= 1.752
 BuildRequires:	unzip
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
