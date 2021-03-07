@@ -65,7 +65,7 @@ Statyczna biblioteka IrrXML.
 Summary:	API documentation for IrrXML library
 Summary(pl.UTF-8):	Dokumentacja API biblioteki IrrXML
 Group:		Documentation
-%{?noarchpackage}
+BuildArch:	noarch
 
 %description apidocs
 API documentation for IrrXML library.
