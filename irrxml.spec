@@ -7,7 +7,7 @@ Summary:	Simple and fast open source XML parser for C++
 Summary(pl.UTF-8):	Prosty, szybki, mający otwarte źródła parser XML dla C++
 Name:		irrxml
 Version:	1.2
-Release:	1
+Release:	2
 License:	Zlib
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/irrlicht/%{name}-%{version}.zip
